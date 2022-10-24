@@ -1,0 +1,13 @@
+my-app/node_modules
+my-app/.next
+WhitelistDapp/node_modules
+my-app/.env
+WhitelistDapp/.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+WhitelistDapp/cache
+WhitelistDapp/artifacts
